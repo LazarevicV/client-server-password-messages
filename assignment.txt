@@ -1,0 +1,11 @@
+Termin 2 - zadatak01
+
+Klijent server aplikacija
+
+Klijent pri konektovanju unosi odgovrajuću lozinku
+ - ako je neispravna, dobija odgovarajuću poruku i prekida se konekcija
+ - ako je ispravna, dobija odgovarajuću poruku i komunikacija se nastavlja
+Klijent unosi poruku sa tastature
+Server vraća klijentovu poruku velikim slovima (primer: pozdrav -> POZDRAV)
+Komunikacija traje sve dok Klijent ne unese "exit"
+Server ostaje da sluša i po mogućnosti prihvata nove klijente
